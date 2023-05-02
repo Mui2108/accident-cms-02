@@ -1,0 +1,7 @@
+@import 'assets/font/stylesheet.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  font-family: 'Noto Sans Thai Regular';
+}

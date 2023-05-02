@@ -1,0 +1,30 @@
+/* Regular */
+@font-face {
+  font-family: 'Noto Sans Thai Regular';
+  src: url('./NotoSansThai-Regular.ttf') format('truetype');
+}
+/* Bold */
+@font-face {
+  font-family: 'Noto Sans Thai';
+  src: url('./NotoSansThai-Bold.ttf') format('truetype');
+}
+/* Medium */
+@font-face {
+  font-family: 'Noto Sans Thai';
+  src: url('./NotoSansThai-Medium.ttf') format('truetype');
+}
+/* Light */
+@font-face {
+  font-family: 'Noto Sans Thai';
+  src: url('./NotoSansThai-Light.ttf') format('truetype');
+}
+/* SemiBold */
+@font-face {
+  font-family: 'Noto Sans Thai';
+  src: url('./NotoSansThai-SemiBold.ttf') format('truetype');
+}
+/* Black */
+/* @font-face {
+  font-family: "Noto Sans Thai";
+  src: url("./NotoSansThai-Black.ttf") format("truetype");
+} */
